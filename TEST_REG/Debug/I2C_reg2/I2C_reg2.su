@@ -1,0 +1,6 @@
+../I2C_reg2/I2C_reg2.c:13:6:I2C_Config1	4	static
+../I2C_reg2/I2C_reg2.c:58:6:I2C_Start1	4	static
+../I2C_reg2/I2C_reg2.c:70:6:I2C_Write1	16	static
+../I2C_reg2/I2C_reg2.c:83:6:I2C_Address1	24	static
+../I2C_reg2/I2C_reg2.c:97:6:I2C_Stop1	4	static
+../I2C_reg2/I2C_reg2.c:102:6:I2C_Read1	24	static

@@ -1,0 +1,2 @@
+../FLASH_REG/FLASH_REG.c:9:6:Flash_Section_Erase	16	static
+../FLASH_REG/FLASH_REG.c:27:6:Flash_Program	32	static

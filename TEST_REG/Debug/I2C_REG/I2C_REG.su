@@ -1,0 +1,6 @@
+../I2C_REG/I2C_REG.c:10:6:I2C1_init	4	static
+../I2C_REG/I2C_REG.c:35:6:I2C_Start	4	static
+../I2C_REG/I2C_REG.c:42:6:I2C_Stop	4	static
+../I2C_REG/I2C_REG.c:47:6:I2C_Wite	16	static
+../I2C_REG/I2C_REG.c:54:6:I2C_Address	24	static
+../I2C_REG/I2C_REG.c:61:6:I2C_Read_OneByte	24	static

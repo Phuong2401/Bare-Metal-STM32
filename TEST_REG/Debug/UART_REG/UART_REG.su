@@ -1,0 +1,4 @@
+../UART_REG/UART_REG.c:5:6:UART_Init	8	static
+../UART_REG/UART_REG.c:12:6:UART_Send_Data	24	static
+../UART_REG/UART_REG.c:23:6:UART_Receive_Data	24	static
+../UART_REG/UART_REG.c:34:6:UART_RX_Interrupt_Init	16	static
